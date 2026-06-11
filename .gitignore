@@ -1,5 +1,11 @@
 .DS_Store
-*.o
+*.o 
+!unit.o
+!unit_mac.o
+!unit_macM1.o
+!test_mv.o
+!test_mv_mac.o
+!test_mv_macM1.o
 Code/loesung
 Code/test_mv
 Code/test_sparse
