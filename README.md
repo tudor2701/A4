@@ -32,7 +32,6 @@ Die vollständige Aufgabenstellung liegt als [`ma3.pdf`](ma3.pdf) bei.
 A4/
 ├── README.md              # diese Datei
 ├── ma3.pdf                # Aufgabenstellung
-├── MEMORY.md              # Projektgedächtnis (Entscheidungen, Dialog, Doku)
 └── Code/
     ├── sparse_matrix.h    # Schnittstelle SparseMatrix (vorgegeben, unverändert)
     ├── sparse_matrix.cpp  # eigene Implementierung der SparseMatrix-Klasse
@@ -204,9 +203,6 @@ akzeptiert wurde.
   passende Verfahren zu überspringen („Matrix nicht symmetrisch … wird daher
   nicht getestet") — daher kein eigener Dispatch im Treiber.
 - **Beispiel-IDs sind 0-basiert** (gültig 0–2, `kNumberOfExamples == 3`).
-
-Ausführliche Begründungen und der Bearbeitungsverlauf stehen in
-[`MEMORY.md`](MEMORY.md).
 
 ## Verifizierte Ergebnisse
 
